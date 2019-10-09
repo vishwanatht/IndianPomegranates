@@ -3,6 +3,5 @@
 This is sample content
 ### Header 2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-![/Bhagwa.jpg](src)
+Sample image to show Bhagwa variety pomegranate. Need to add furhter details to show regarding its origin and where all its grown.
+![Bhagwa](https://github.com/vishwanatht/IndianPomegranates/blob/master/Bhagwa.jpeg?raw=true)
