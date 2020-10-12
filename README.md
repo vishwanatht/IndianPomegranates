@@ -1,8 +1,13 @@
 ## Vishwanath Traders
 
-We export high quality pomegranates.
+We produce and supply rich quality the Fresh fruits, that make a difference in people and Environment around the world.
 [site](http://vishwanathtraders.com)
-### Bhagwa pomegranate: Know your farmer.
+### Bhagwa pomegranate: 
 
-Sample image to show Bhagwa variety pomegranate. Need to add furhter details to show regarding its origin and where all its grown.
+We export premiuim quality bhagwa pomegranate, We are based out of solapur, Largest pomegranate porducer in india. 
 ![Bhagwa](https://github.com/vishwanatht/IndianPomegranates/blob/master/Bhagwa.jpeg?raw=true)
+
+We supply premium quality grapes
+Thomson
+
+
